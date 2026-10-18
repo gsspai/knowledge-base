@@ -2,12 +2,14 @@
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 15750c63030c727fbf09f2cd3cd7fa78_83a01824cb0911f18b7f525400393706
-    ReservedCode1: B3z3SlW/Sb7HkstQwvX8INVY3aU8SGgJGn4nBCn3s8m4eLdeDnoh86iIM/Ca+ZgJ8/fvPPzN8Q0H/DM8m8W18Q5beN3eVEKjyPzjhLk2LlwTlWhc7Z3XSqBxzfXylr19TCut+AfCQ12gWKk/J/6Vdqtr5VSRk/E2+Sxb1n9ug4VhLfg8DA68Kb8GPiY=
+    ProduceID: 15750c63030c727fbf09f2cd3cd7fa78_82a43070cb0f11f18b7f525400393706
+    ReservedCode1: 8/dvhBZ2Co16pfTrrRAfMiCaYiBjDwNmJNMnlDdE31qYLJej8usOo8IuzTmJ0zfv0P6yzhpJopqIE4kfHV8CbKd03GDfPhnvTexw/kCirCNUgR4X+VPJ2DIqKMsIJHJknij1xTWBhLFOsRztrT0V24bmZYxbuUwYF9HG/xWF0Uu2lOiAjmfGdCyp3gc=
     ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 15750c63030c727fbf09f2cd3cd7fa78_83a01824cb0911f18b7f525400393706
-    ReservedCode2: B3z3SlW/Sb7HkstQwvX8INVY3aU8SGgJGn4nBCn3s8m4eLdeDnoh86iIM/Ca+ZgJ8/fvPPzN8Q0H/DM8m8W18Q5beN3eVEKjyPzjhLk2LlwTlWhc7Z3XSqBxzfXylr19TCut+AfCQ12gWKk/J/6Vdqtr5VSRk/E2+Sxb1n9ug4VhLfg8DA68Kb8GPiY=
+    PropagateID: 15750c63030c727fbf09f2cd3cd7fa78_82a43070cb0f11f18b7f525400393706
+    ReservedCode2: 8/dvhBZ2Co16pfTrrRAfMiCaYiBjDwNmJNMnlDdE31qYLJej8usOo8IuzTmJ0zfv0P6yzhpJopqIE4kfHV8CbKd03GDfPhnvTexw/kCirCNUgR4X+VPJ2DIqKMsIJHJknij1xTWBhLFOsRztrT0V24bmZYxbuUwYF9HG/xWF0Uu2lOiAjmfGdCyp3gc=
 ---
+
+
 
 # Prompt 模板库
 
@@ -25,6 +27,7 @@ AIGC:
 | 邮件起草 Email Draft | 按目的、收件人关系与正式程度起草中英文商务邮件 | 全员 | [email-draft.md](email-draft.md) |
 | 会议纪要 Meeting Minutes | 将会议记录整理为结构化纪要，含决议与行动项追踪 | 全员 | [meeting-minutes.md](meeting-minutes.md) |
 | 专业名词深度研习 Term Research | 对专业名词进行深度调研，输出含概念定义、最新学术研究、业界动态、发展趋势与学习路径的系统学习报告 | 学习者 / 研究者 / 内容创作者 | [term-research.md](term-research.md) |
+| 交接文档 HANDOFF | 会话结束时生成结构化交接文档，记录进度、遗留问题与关键上下文，实现零成本续接 | 全员 / 项目协作 | [handoff.md](handoff.md) |
 
 ## 模板结构说明
 
@@ -47,4 +50,5 @@ AIGC:
 - 模板默认以中文为主，保留必要英文术语；如需英文输出，在 `Task` 或 `Requirements` 中显式声明
 - 涉及真实数据（代码、用户信息、财务数据）时，请先脱敏再输入
 - 建议将高频使用、表现良好的模板沉淀回本目录，保持库持续演进
+*（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
