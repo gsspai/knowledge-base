@@ -16,10 +16,19 @@
 
 ## Prompt 模板库
 
-面向研发、产品、运营等场景的可复用 Prompt 模板集合，统一采用 `Role / Task / Requirements / Output Format` 结构化格式。
+面向研发、产品、运营等场景的可复用 Prompt 模板集合，统一采用 `Role / Task / Requirements / Output Format` 结构化格式，目前已收录 9 个场景模板。
 
 - 模板库入口：[prompt-templates/README.md](prompt-templates/README.md)
-- 已覆盖场景：代码审查、PRD 需求文档、测试用例、竞品分析、数据分析、邮件起草、会议纪要
+- 模板清单：
+  - 代码审查：[code-review.md](prompt-templates/code-review.md)
+  - PRD 需求文档：[prd.md](prompt-templates/prd.md)
+  - 测试用例：[test-cases.md](prompt-templates/test-cases.md)
+  - 竞品分析：[competitor-analysis.md](prompt-templates/competitor-analysis.md)
+  - 数据分析：[data-analysis.md](prompt-templates/data-analysis.md)
+  - 邮件起草：[email-draft.md](prompt-templates/email-draft.md)
+  - 会议纪要：[meeting-minutes.md](prompt-templates/meeting-minutes.md)
+  - 专业名词深度研习：[term-research.md](prompt-templates/term-research.md)
+  - 交接文档：[handoff.md](prompt-templates/handoff.md)
 
 ## 说明
 

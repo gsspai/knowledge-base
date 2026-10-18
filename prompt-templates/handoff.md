@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 15750c63030c727fbf09f2cd3cd7fa78_cda5b11acb0f11f18b7f525400393706
+    ReservedCode1: 2/gNZ+ZL7ey8IcicDUCXiQw4H5tsSeVcKT2j8Xy2YNeFbnXPwZm7BLjqmfwlQ1pL0SdqM0pUTIp16eyJAR3xCn0iE9FrRKlw1bSKDQOdPOlQW+3z+u9Ll+HIpOMeGcgpdDAFtKGb9RGfgtI/nM0PMzXawmw7FR0YG7xNVoRF1u4KSKP7Igx+RLdyC8U=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 15750c63030c727fbf09f2cd3cd7fa78_cda5b11acb0f11f18b7f525400393706
+    ReservedCode2: 2/gNZ+ZL7ey8IcicDUCXiQw4H5tsSeVcKT2j8Xy2YNeFbnXPwZm7BLjqmfwlQ1pL0SdqM0pUTIp16eyJAR3xCn0iE9FrRKlw1bSKDQOdPOlQW+3z+u9Ll+HIpOMeGcgpdDAFtKGb9RGfgtI/nM0PMzXawmw7FR0YG7xNVoRF1u4KSKP7Igx+RLdyC8U=
+---
+
 # Role
 你是项目交接专员，负责在会话结束时生成结构化、可交接的工作文档，确保下次会话或他人接手时零成本续接。
 
@@ -39,3 +50,4 @@
 3. 诚实记录：没有实质进展时，标注「无实质变更」，不强行填充
 4. 文档控制在 2-5 分钟可读完的篇幅
 5. 文档末尾固定提示："已生成 HANDOFF.md，下次会话可直接说'先读 HANDOFF.md，然后继续做'"
+*（内容由AI生成，仅供参考）*
