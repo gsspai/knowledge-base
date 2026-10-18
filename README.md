@@ -10,9 +10,9 @@
 
 ## AI 科普笔记
 
-面向持续积累的 AI 名词/技术科普笔记系列（每日一篇），收录于本仓库 [notes/ai-glossary](notes/ai-glossary/)，按主题分类沉淀。
+面向持续积累的 AI 名词/技术科普笔记系列（每日一篇），收录于本仓库 [notes/ai-glossary](notes/ai-glossary/)。
 
-- 当前已收录主题：[幻觉 Hallucination](notes/ai-glossary/hallucination/AI幻觉(Hallucination).md)
+- 当前已收录：[AI 幻觉（Hallucination）](notes/ai-glossary/AI幻觉(Hallucination).md)
 
 ## 说明
 
