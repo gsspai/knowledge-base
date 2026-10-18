@@ -1,13 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 15750c63030c727fbf09f2cd3cd7fa78_8829b999cb0911f18b7f525400393706
-    ReservedCode1: mhdQX7/fF7e9fKc6jsOkGOMGnoWhAthkRYvYkJKJT867SaWCkbzAIGR+EuPocdu85u3BzKxFp0TIZAnQ0i+/YIE9/LbZXRrs6nNFzUiJqPKce/0Naza8JhDh+LfiNeq+Jpfx0NeZ17tLb1lF0AhBP8J3P7aTm0Pe59v1E8aF5H6nsRGbk426zfN+iyE=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 15750c63030c727fbf09f2cd3cd7fa78_8829b999cb0911f18b7f525400393706
-    ReservedCode2: mhdQX7/fF7e9fKc6jsOkGOMGnoWhAthkRYvYkJKJT867SaWCkbzAIGR+EuPocdu85u3BzKxFp0TIZAnQ0i+/YIE9/LbZXRrs6nNFzUiJqPKce/0Naza8JhDh+LfiNeq+Jpfx0NeZ17tLb1lF0AhBP8J3P7aTm0Pe59v1E8aF5H6nsRGbk426zfN+iyE=
----
 
 # 竞品分析（Competitor Analysis）Prompt 模板
 
