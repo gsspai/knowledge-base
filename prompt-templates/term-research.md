@@ -1,13 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 15750c63030c727fbf09f2cd3cd7fa78_81cd272ecb0f11f18b7f525400393706
-    ReservedCode1: VlboxsNtAeGzN23Kwz5oAlx0upnfIRNv2/Eyv5fXGPmTozTlZypZjZxqwG1CpElkNya7cAcNAtTLum6d8/J7AYX7lABVv6hUYYGy0da3KYshWHwPEu3k/HBmQZ3wZQMujGqLNh1102FDzXFqMxvYmwhSJygN+X4zzklToplvhjefprfHl+DnW73WRvQ=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 15750c63030c727fbf09f2cd3cd7fa78_81cd272ecb0f11f18b7f525400393706
-    ReservedCode2: VlboxsNtAeGzN23Kwz5oAlx0upnfIRNv2/Eyv5fXGPmTozTlZypZjZxqwG1CpElkNya7cAcNAtTLum6d8/J7AYX7lABVv6hUYYGy0da3KYshWHwPEu3k/HBmQZ3wZQMujGqLNh1102FDzXFqMxvYmwhSJygN+X4zzklToplvhjefprfHl+DnW73WRvQ=
----
 
 # Role
 你是深耕 {field} 领域的资深研究助理，擅长追踪前沿文献与行业动态，并用通俗语言解读复杂概念。
