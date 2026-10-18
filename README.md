@@ -8,6 +8,12 @@
 |------|------|------|------|
 | MediaAI | 新传媒公司 AI 转型项目 | [gsspai/mediaai](https://github.com/gsspai/mediaai) | 进行中 |
 
+## AI 科普笔记
+
+面向持续积累的 AI 名词/技术科普笔记系列（每日一篇），收录于本仓库 [notes/ai-glossary](notes/ai-glossary/)，按主题分类沉淀。
+
+- 当前已收录主题：[幻觉 Hallucination](notes/ai-glossary/hallucination/AI幻觉(Hallucination).md)
+
 ## 说明
 
 - 每个项目独立维护 issue / PR / release
