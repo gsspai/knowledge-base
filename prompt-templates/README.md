@@ -1,15 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 15750c63030c727fbf09f2cd3cd7fa78_82a43070cb0f11f18b7f525400393706
-    ReservedCode1: 8/dvhBZ2Co16pfTrrRAfMiCaYiBjDwNmJNMnlDdE31qYLJej8usOo8IuzTmJ0zfv0P6yzhpJopqIE4kfHV8CbKd03GDfPhnvTexw/kCirCNUgR4X+VPJ2DIqKMsIJHJknij1xTWBhLFOsRztrT0V24bmZYxbuUwYF9HG/xWF0Uu2lOiAjmfGdCyp3gc=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 15750c63030c727fbf09f2cd3cd7fa78_82a43070cb0f11f18b7f525400393706
-    ReservedCode2: 8/dvhBZ2Co16pfTrrRAfMiCaYiBjDwNmJNMnlDdE31qYLJej8usOo8IuzTmJ0zfv0P6yzhpJopqIE4kfHV8CbKd03GDfPhnvTexw/kCirCNUgR4X+VPJ2DIqKMsIJHJknij1xTWBhLFOsRztrT0V24bmZYxbuUwYF9HG/xWF0Uu2lOiAjmfGdCyp3gc=
----
-
-
 
 # Prompt 模板库
 
