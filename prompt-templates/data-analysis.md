@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 15750c63030c727fbf09f2cd3cd7fa78_88e506cfcb0911f18b7f525400393706
+    ReservedCode1: 4WUqEWVDHqxztjxH8B/2FI+TeMGD6/Y42uME8prN7+4IMnjwFFfHL1VKzj3vut22dgfnyagiA07ZOg3OAL6PmU/q8s5ar4ahaJZ4uF3h3Efr7ZoLUf9SgGBsFePBW4BbEchTj3YdHk4vRjsgAavHXF/BnTZb6XnEt0VcVEM1p7CwEqteEED+9U3VXjY=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 15750c63030c727fbf09f2cd3cd7fa78_88e506cfcb0911f18b7f525400393706
+    ReservedCode2: 4WUqEWVDHqxztjxH8B/2FI+TeMGD6/Y42uME8prN7+4IMnjwFFfHL1VKzj3vut22dgfnyagiA07ZOg3OAL6PmU/q8s5ar4ahaJZ4uF3h3Efr7ZoLUf9SgGBsFePBW4BbEchTj3YdHk4vRjsgAavHXF/BnTZb6XnEt0VcVEM1p7CwEqteEED+9U3VXjY=
+---
+
 # 数据分析（Data Analysis）Prompt 模板
 
 ## Role
@@ -56,3 +67,4 @@
 - `{analysis_goal}`：分析目标
 - `{business_context}`：业务背景
 - `{dimension}`：拆解维度（如时间、地区、渠道、用户分层）
+*（内容由AI生成，仅供参考）*

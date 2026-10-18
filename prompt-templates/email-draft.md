@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 15750c63030c727fbf09f2cd3cd7fa78_899768b5cb0911f18b7f525400393706
+    ReservedCode1: z+SUJA983AHSGyd6q1MQoDvdibMa1ZDxL6NchZPoYs0kAMfeYtPbsZDBa1R7qQik5oaR2v935bP8p5bPWPPt+va7IMzuzCzs+nP28jPErbxF91+8QZG0/JqBK8XkqYtiHUC3Vgb8sP/+XjHGMOwqFIhG6ZHjX0Co/9qdGMR/3Ay9NUIYONc1nJJMx/U=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 15750c63030c727fbf09f2cd3cd7fa78_899768b5cb0911f18b7f525400393706
+    ReservedCode2: z+SUJA983AHSGyd6q1MQoDvdibMa1ZDxL6NchZPoYs0kAMfeYtPbsZDBa1R7qQik5oaR2v935bP8p5bPWPPt+va7IMzuzCzs+nP28jPErbxF91+8QZG0/JqBK8XkqYtiHUC3Vgb8sP/+XjHGMOwqFIhG6ZHjX0Co/9qdGMR/3Ay9NUIYONc1nJJMx/U=
+---
+
 # 邮件起草（Email Draft）Prompt 模板
 
 ## Role
@@ -67,3 +78,4 @@
 - `{recipient_greeting}`：称呼
 - `{closing}`：结尾敬语
 - `{signature}`：署名
+*（内容由AI生成，仅供参考）*

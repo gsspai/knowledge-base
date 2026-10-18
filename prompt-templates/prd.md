@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 15750c63030c727fbf09f2cd3cd7fa78_869bb5f2cb0911f18b7f525400393706
+    ReservedCode1: nGU9vJFut8yoNA9ute0aEV6G/Gmoolp0EEGzkySQ0Aij7h2NjlqVTEFQkTFVjfPxYLpZWfGgC47oWE3Mdhi/l4rZlTzLe4lUKDTE4wp0xYsHC8bDWvJjLY0QhHMzzrbJaKQxcTb0ZuNPHdcUVgD4d9GD7s3uj7Iwzwdz/fLFALAqMrxO08yWD3UPFeg=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 15750c63030c727fbf09f2cd3cd7fa78_869bb5f2cb0911f18b7f525400393706
+    ReservedCode2: nGU9vJFut8yoNA9ute0aEV6G/Gmoolp0EEGzkySQ0Aij7h2NjlqVTEFQkTFVjfPxYLpZWfGgC47oWE3Mdhi/l4rZlTzLe4lUKDTE4wp0xYsHC8bDWvJjLY0QhHMzzrbJaKQxcTb0ZuNPHdcUVgD4d9GD7s3uj7Iwzwdz/fLFALAqMrxO08yWD3UPFeg=
+---
+
 # PRD 需求文档（Product Requirements Document）Prompt 模板
 
 ## Role
@@ -65,3 +76,4 @@
 - `{product_type}`：产品形态
 - `{product_name}`：产品名称
 - `{module_name}`：功能模块名称
+*（内容由AI生成，仅供参考）*

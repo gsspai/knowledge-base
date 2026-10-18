@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 15750c63030c727fbf09f2cd3cd7fa78_8a9e1688cb0911f18b7f525400393706
+    ReservedCode1: BBtvcPqaMBZPw7oaVngdx8BjJOfPdP37vP2R2tNCNgW6hfrBogH+cH32Bl7Xe90ObN2whEYiU5B/5Sy+aJ/1hNANthjmGNPZCu+b1ncAiNds6OH7Ov068BUm0Y2kAinMaorNpVaW/tgl5Z2E70Fb+HIn2Z9jyfkN4oeSASEafiUIufZxCTpMNPSHorM=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 15750c63030c727fbf09f2cd3cd7fa78_8a9e1688cb0911f18b7f525400393706
+    ReservedCode2: BBtvcPqaMBZPw7oaVngdx8BjJOfPdP37vP2R2tNCNgW6hfrBogH+cH32Bl7Xe90ObN2whEYiU5B/5Sy+aJ/1hNANthjmGNPZCu+b1ncAiNds6OH7Ov068BUm0Y2kAinMaorNpVaW/tgl5Z2E70Fb+HIn2Z9jyfkN4oeSASEafiUIufZxCTpMNPSHorM=
+---
+
 # 会议纪要（Meeting Minutes）Prompt 模板
 
 ## Role
@@ -71,3 +82,4 @@
 - `{recorder}`：记录人（可选）
 - `{meeting_goal}`：会议目标（可选）
 - `{agenda_item}`：议题名称
+*（内容由AI生成，仅供参考）*
