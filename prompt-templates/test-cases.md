@@ -1,13 +1,4 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 15750c63030c727fbf09f2cd3cd7fa78_8781140ecb0911f18b7f525400393706
-    ReservedCode1: zIJpiOnfvf+WnjkTaGDh3QiOdfrhKDkPrYzSei8SebiYDX3u5eju5VWM9OiXRRtgxGfmy51aG8cVYJqszp3YcXf+m6Rtm0jkiwC5JRGYhrezFy+AUGc9KpmmOjoDcvJsgPD2A+96fRaK20D/Y4+2XWqajWKSvfReZ57XmHOxiHMb2ubWZP/V08uNQ9s=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 15750c63030c727fbf09f2cd3cd7fa78_8781140ecb0911f18b7f525400393706
-    ReservedCode2: zIJpiOnfvf+WnjkTaGDh3QiOdfrhKDkPrYzSei8SebiYDX3u5eju5VWM9OiXRRtgxGfmy51aG8cVYJqszp3YcXf+m6Rtm0jkiwC5JRGYhrezFy+AUGc9KpmmOjoDcvJsgPD2A+96fRaK20D/Y4+2XWqajWKSvfReZ57XmHOxiHMb2ubWZP/V08uNQ9s=
----
+
 
 # 测试用例（Test Cases）Prompt 模板
 
