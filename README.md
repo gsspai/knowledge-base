@@ -14,6 +14,13 @@
 
 - 当前已收录：[AI 幻觉（Hallucination）](notes/ai-glossary/AI幻觉(Hallucination).md)
 
+## Prompt 模板库
+
+面向研发、产品、运营等场景的可复用 Prompt 模板集合，统一采用 `Role / Task / Requirements / Output Format` 结构化格式。
+
+- 模板库入口：[prompt-templates/README.md](prompt-templates/README.md)
+- 已覆盖场景：代码审查、PRD 需求文档、测试用例、竞品分析、数据分析、邮件起草、会议纪要
+
 ## 说明
 
 - 每个项目独立维护 issue / PR / release
